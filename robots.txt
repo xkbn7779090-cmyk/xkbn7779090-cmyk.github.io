@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jan-tar-moving-studio.xkbn.chatgpt.site/sitemap.xml
